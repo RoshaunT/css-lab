@@ -1,0 +1,8 @@
+body {
+    font-family: Arial, sans-serif;
+ }
+
+
+ .card button:hover {
+    background-color: #0056b3;
+ }
